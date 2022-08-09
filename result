@@ -1,0 +1,191 @@
+# profile 1
+profile 1
+
+# # profile 1
+
+# set profile_name = -
+profile_name set to -
+# set dterm_lpf1_dyn_min_hz = 70
+dterm_lpf1_dyn_min_hz set to 70
+# set dterm_lpf1_dyn_max_hz = 170
+dterm_lpf1_dyn_max_hz set to 170
+# set dterm_lpf1_dyn_expo = 5
+dterm_lpf1_dyn_expo set to 5
+# set dterm_lpf1_type = PT1
+dterm_lpf1_type set to PT1
+# set dterm_lpf1_static_hz = 150
+dterm_lpf1_static_hz set to 150
+# set dterm_lpf2_type = PT1
+dterm_lpf2_type set to PT1
+# set dterm_lpf2_static_hz = 150
+dterm_lpf2_static_hz set to 150
+# set dterm_notch_hz = 0
+dterm_notch_hz set to 0
+# set dterm_notch_cutoff = 0
+dterm_notch_cutoff set to 0
+# set vbat_pid_gain = ON
+###ERROR IN set: INVALID NAME###
+
+# set vbat_sag_compensation = 0
+vbat_sag_compensation set to 0
+# set pid_at_min_throttle = ON
+pid_at_min_throttle set to ON
+# set anti_gravity_mode = SMOOTH
+anti_gravity_mode set to SMOOTH
+# set anti_gravity_threshold = 250
+anti_gravity_threshold set to 250
+# set anti_gravity_gain = 6500
+anti_gravity_gain set to 6500
+# set feedforward_transition = 0
+feedforward_transition set to 0
+# set acc_limit_yaw = 0
+acc_limit_yaw set to 0
+# set acc_limit = 0
+acc_limit set to 0
+# set crash_dthreshold = 50
+crash_dthreshold set to 50
+# set crash_gthreshold = 400
+crash_gthreshold set to 400
+# set crash_setpoint_threshold = 350
+crash_setpoint_threshold set to 350
+# set crash_time = 500
+crash_time set to 500
+# set crash_delay = 0
+crash_delay set to 0
+# set crash_recovery_angle = 10
+crash_recovery_angle set to 10
+# set crash_recovery_rate = 100
+crash_recovery_rate set to 100
+# set crash_limit_yaw = 200
+crash_limit_yaw set to 200
+# set crash_recovery = OFF
+crash_recovery set to OFF
+# set iterm_rotation = ON
+iterm_rotation set to ON
+# set iterm_relax = RP
+iterm_relax set to RP
+# set iterm_relax_type = GYRO
+iterm_relax_type set to GYRO
+# set iterm_relax_cutoff = 15
+iterm_relax_cutoff set to 15
+# set iterm_windup = 100
+iterm_windup set to 100
+# set iterm_limit = 400
+iterm_limit set to 400
+# set pidsum_limit = 500
+pidsum_limit set to 500
+# set pidsum_limit_yaw = 400
+pidsum_limit_yaw set to 400
+# set yaw_lowpass_hz = 0
+yaw_lowpass_hz set to 0
+# set throttle_boost = 5
+throttle_boost set to 5
+# set throttle_boost_cutoff = 15
+throttle_boost_cutoff set to 15
+# set acro_trainer_angle_limit = 20
+acro_trainer_angle_limit set to 20
+# set acro_trainer_lookahead_ms = 50
+acro_trainer_lookahead_ms set to 50
+# set acro_trainer_debug_axis = ROLL
+acro_trainer_debug_axis set to ROLL
+# set acro_trainer_gain = 75
+acro_trainer_gain set to 75
+# set p_pitch = 80
+p_pitch set to 80
+# set i_pitch = 88
+i_pitch set to 88
+# set d_pitch = 45
+d_pitch set to 45
+# set f_pitch = 105
+f_pitch set to 105
+# set p_roll = 82
+p_roll set to 82
+# set i_roll = 88
+i_roll set to 88
+# set d_roll = 45
+d_roll set to 45
+# set f_roll = 99
+f_roll set to 99
+# set p_yaw = 80
+p_yaw set to 80
+# set i_yaw = 60
+i_yaw set to 60
+# set d_yaw = 0
+d_yaw set to 0
+# set f_yaw = 99
+f_yaw set to 99
+# set angle_level_strength = 50
+angle_level_strength set to 50
+# set horizon_level_strength = 50
+horizon_level_strength set to 50
+# set horizon_transition = 75
+horizon_transition set to 75
+# set level_limit = 55
+level_limit set to 55
+# set horizon_tilt_effect = 75
+horizon_tilt_effect set to 75
+# set horizon_tilt_expert_mode = OFF
+horizon_tilt_expert_mode set to OFF
+# set abs_control_gain = 0
+abs_control_gain set to 0
+# set abs_control_limit = 90
+abs_control_limit set to 90
+# set abs_control_error_limit = 20
+abs_control_error_limit set to 20
+# set abs_control_cutoff = 11
+abs_control_cutoff set to 11
+# set use_integrated_yaw = OFF
+use_integrated_yaw set to OFF
+# set integrated_yaw_relax = 200
+integrated_yaw_relax set to 200
+# set d_min_roll = 26
+d_min_roll set to 26
+# set d_min_pitch = 28
+d_min_pitch set to 28
+# set d_min_yaw = 0
+d_min_yaw set to 0
+# set d_max_gain = 37
+d_max_gain set to 37
+# set d_max_advance = 20
+d_max_advance set to 20
+# set motor_output_limit = 100
+motor_output_limit set to 100
+# set auto_profile_cell_count = 0
+auto_profile_cell_count set to 0
+# set launch_control_mode = NORMAL
+launch_control_mode set to NORMAL
+# set launch_trigger_allow_reset = ON
+launch_trigger_allow_reset set to ON
+# set launch_trigger_throttle_percent = 20
+launch_trigger_throttle_percent set to 20
+# set launch_angle_limit = 0
+launch_angle_limit set to 0
+# set launch_control_gain = 40
+launch_control_gain set to 40
+# set ff_interpolate_sp = AVERAGED_2
+###ERROR IN set: INVALID NAME###
+
+# set ff_spike_limit = 60
+###ERROR IN set: INVALID NAME###
+
+# set ff_max_rate_limit = 100
+###ERROR IN set: INVALID NAME###
+
+# set feedforward_smooth_factor = 37
+feedforward_smooth_factor set to 37
+# set feedforward_boost = 15
+feedforward_boost set to 15
+# set dyn_idle_min_rpm = 0
+dyn_idle_min_rpm set to 0
+# set idle_adjustment_speed = 50
+###ERROR IN set: INVALID NAME###
+
+# set dyn_idle_p_gain = 50
+dyn_idle_p_gain set to 50
+# set idle_pid_limit = 200
+###ERROR IN set: INVALID NAME###
+
+# set dyn_idle_max_increase = 150
+dyn_idle_max_increase set to 150
+# set level_race_mode = OFF
+level_race_mode set to OFF
